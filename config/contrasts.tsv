@@ -1,0 +1,10 @@
+name	numerator	denominator	note
+Nitrogen_2h_light	N_Minus_L_2hr	N_Plus_L_2hr	same run, time-matched
+Nitrogen_24h_light	N_Minus_L_24hr	N_Plus_L_24hr	time-matched; check run column
+Nitrogen_2h_dark	N_Minus_D_2hr	N_Plus_D_2hr	same run, time-matched
+Nitrogen_24h_dark	N_Minus_D_24hr	N_Plus_D_24hr	same run, time-matched
+Dark_2h	N_Plus_D_2hr	N_Plus_L_2hr	same run, time-matched
+Dark_24h	N_Plus_D_24hr	N_Plus_L_24hr	CROSSES RUNS if 24h-light libraries are run2: report with caveat
+Time_in_dark	N_Plus_D_24hr	N_Plus_D_2hr	time effect in darkness
+Time_in_light	N_Plus_L_24hr	N_Plus_L_2hr	time effect in light (the control your 24h contrasts need)
+

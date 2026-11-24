@@ -1,0 +1,9 @@
+# Variants reported before this pipeline (GATK on LK_16), in LK_1 (2023) coordinates. Used ONLY to label
+# matching calls in step 08 (column previously_reported); a site listed here that step 08 does not call is not reported.
+# contig	pos	note
+LNDBAELA	3220667	QVFV01000004.1:60412 C>T (pgaptmp_002725 p.Gln93*)
+LNDBAELA	1176432	QVFV01000002.1:794019 GA>G (pgaptmp_000955)
+LNDBAELA	3900757	QVFV01000001.1:1270709 G>GC (pgaptmp_003298/003297)
+LNDBAELA	2398405	QVFV01000003.1:235168 A>AC (pgaptmp_002003)
+LNDBAELA	2450869	QVFV01000003.1:182714 A>G (pgaptmp_002053)
+LNDBAELA	3306036	QVFV01000008.1:159869 G>A (pgaptmp_002793)

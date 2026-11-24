@@ -1,0 +1,10 @@
+*.bam
+*.bai
+*.fastq*
+*.fq*
+*.fna
+*.fa
+*.fasta
+*.gff
+results/
+__pycache__/
